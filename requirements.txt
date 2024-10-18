@@ -40,6 +40,7 @@ pyzmq==26.2.0
 referencing==0.35.1
 requests==2.32.3
 rpds-py==0.20.0
+scikit-learn==1.5.2
 six==1.16.0
 soupsieve==2.6
 stack-data==0.6.3
